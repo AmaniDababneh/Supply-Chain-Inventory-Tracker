@@ -21,6 +21,7 @@ Help supply chain managers identify stock shortages and supplier-related restock
 - Restocking delay trends by supplier  
 - Product category restocking trends  
 - Slicers allow quick filtering by warehouse, supplier, and product category
+  
 ![Dashboard Preview](dashboard.png)
 
 ---
