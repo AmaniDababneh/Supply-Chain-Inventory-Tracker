@@ -22,7 +22,7 @@ Help supply chain managers identify stock shortages and supplier-related restock
 - Product category restocking trends  
 - Slicers allow quick filtering by warehouse, supplier, and product category
 - 
-[Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
