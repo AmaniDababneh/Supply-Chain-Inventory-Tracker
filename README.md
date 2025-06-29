@@ -16,20 +16,24 @@ Help supply chain managers identify stock shortages and supplier-related restock
 
 ---
 
-## 📈 Key Insights  
-- Warehouse performance by stock status (Low Stock vs OK)  
-- Restocking delay trends by supplier  
-- Product category restocking trends  
-- Slicers allow quick filtering by warehouse, supplier, and product category
+## 📊 Key Insights
+- Low-stock item counts are relatively low across all warehouses, with **New York** having the highest (**20 out of 65**) and **Chicago** the lowest (**14 out of 68**). This may reflect differences in fulfillment patterns or product turnover rates rather than critical shortages.
+- **FastLine** and **AlphaSource** have the highest restocking delays, with **78.3%** and **74.4%** of their orders arriving late, respectively — highlighting a need for closer supplier management.
+- The **Accessories** category experiences the most delays, with **99 delayed restocks**, suggesting recurring challenges in that product line’s supply chain.
+- Dashboard filters allow targeted analysis by **warehouse**, **supplier**, and **category**, making it easier to pinpoint issues and support timely decision-making.
+
+
   
 ![Dashboard Preview](dashboard.png)
 
 ---
 
-## ✅ Recommendations  
-- Prioritize communication with suppliers causing the most delays.  
-- Improve inventory forecasting in underperforming warehouses.  
-- Monitor accessories category closely — highest restock delay rate.
+## ✅ Recommendations
+
+- Monitor restocking trends across warehouses and adjust ordering frequency as needed to maintain consistent stock availability without overordering.
+- Engage with underperforming suppliers like **FastLine** and **AlphaSource** to address delay patterns, and evaluate alternative vendors if improvements aren’t made.
+- Investigate systemic issues in the **Accessories** supply chain — such as demand forecasting errors, vendor constraints, or logistics delays — to reduce future disruptions.
+- Use this dashboard routinely to catch early signals of inventory stress and take preventive action before stockouts occur.
 
 ---
 
